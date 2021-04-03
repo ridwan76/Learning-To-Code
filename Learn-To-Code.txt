@@ -1,3 +1,4 @@
 Mampu membuat aplikasi dengan beragam bahasa pemrograman
 -Belajar menggunakan github
 -Belajar HTML
+-Belajar PHP
